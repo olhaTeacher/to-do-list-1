@@ -1,0 +1,14 @@
+.item {
+    display: flex;
+    width: 500px;
+    background: rgba(255, 255, 255, 0.4);
+    padding: 15px;
+    border-radius: 7px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.completed {
+    text-decoration: line-through;
+    background: rgba(255, 0, 0, 0.4);
+}
